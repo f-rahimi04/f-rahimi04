@@ -1,43 +1,36 @@
+# 👋 Hi, I'm Rahimi
 
-<!--
-**f-rahimi04/f-rahimi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Rahimi 👋
-
-**Exploring computer science through Python, mathematics, and hands-on learning.**
-
-I'm building my programming foundations and exploring how computational ideas can be used to understand and solve problems.
+Computer Engineering student building a foundation in programming and mathematics. I'm especially interested in the connection between mathematics, intelligent systems, and the physical world: the algorithms behind AI, how robots perceive and move, and the principles of quantum computing.
 
 ---
 
-### 🧭 Areas of Interest
+## 🛠️ Skills and Learning
 
-| 🤖 AI & Machine Learning | 🦾 Robotics |
-|:---:|:---:|
-| 🧮 Mathematics | ⚛️ Quantum Computing |
+**Working with**
+- 🐍 **Python:** beginner level, practicing problem solving and small scripts
+- 🌐 **HTML & CSS:** basic web pages
 
-### 💻 Technologies
-
-- **Python** — programming fundamentals
-- **HTML & CSS** — web development basics
-- **Django** — exploring the fundamentals
-
-
-### 🌱 Currently
-
-Strengthening my programming and mathematical foundations through practice, small projects, and continuous learning.
+**Currently learning**
+- 🧠 **Machine learning:** conceptual foundations, before using ready-made tools
+- ⚙️ **Django:** early stage, backend basics
+- 📐 **Mathematics:** linear algebra, probability and calculus, with a focus on how they connect to computation
 
 ---
 
-*Curiosity, consistency, and learning by building.*
+## 🔭 Interests
+
+- 🧠 **Artificial Intelligence & Machine Learning:** how systems learn from data, and the mathematics and algorithms behind them rather than only the tools
+- 🤖 **Robotics:** where programming, mathematics, and electronics meet the physical world
+- ⚛️ **Quantum Computing:** its mathematical principles and how it changes the way some problems are approached
+
+---
+
+## 🌱 How I Learn
+
+I focus on fundamentals before tools, and I learn by experimenting: trying an idea, testing it, and improving it. My goal is to eventually build projects that connect AI, robotics, and computation.
+
+---
+
+## 📫 Contact
+
+- Email: [rahimifr04@gmail.com]
