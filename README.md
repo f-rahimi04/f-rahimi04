@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahimi
+# Hi, I'm Rahimi 👋
 
 Computer Engineering student building a foundation in programming and mathematics. I'm especially interested in the connection between mathematics, intelligent systems, and the physical world: the algorithms behind AI, how robots perceive and move, and the principles of quantum computing.
 
